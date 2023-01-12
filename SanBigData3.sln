@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanBigData3", "SanBigData3\SanBigData3.csproj", "{077E6B18-B0F3-456B-971D-118789058C2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanBigDataTesting", "SanBigDataTesting\SanBigDataTesting.csproj", "{9942A72C-334B-4461-8C80-94DE1BBB73D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{077E6B18-B0F3-456B-971D-118789058C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077E6B18-B0F3-456B-971D-118789058C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077E6B18-B0F3-456B-971D-118789058C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077E6B18-B0F3-456B-971D-118789058C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9942A72C-334B-4461-8C80-94DE1BBB73D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9942A72C-334B-4461-8C80-94DE1BBB73D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9942A72C-334B-4461-8C80-94DE1BBB73D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9942A72C-334B-4461-8C80-94DE1BBB73D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7F08B7C-95C3-401A-9D25-F32D53E4AB1E}
+	EndGlobalSection
+EndGlobal
